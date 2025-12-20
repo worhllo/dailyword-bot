@@ -24,15 +24,16 @@ def get_daily_quote():
     return "“因为想赢，所以才会战斗！”\n——《排球少年！！》"
 
 def get_hinata_image():
-    # 增加 random=true 参数尝试获取随机图片
-    url = "https://safebooru.donmai.us/posts.json?tags=hinata_shouyou+pixiv+rating:general&limit=20"
+    # === 关键改动：将 safebooru.donmai.us 替换为 danbooru.donmai.us ===
+    # Danbooru 拥有更庞大的图片库，且通常对 API 访问更宽松。
+    # tags=hinata_shouyou+pixiv+rating:general 确保搜索日向翔阳、来自Pixiv、全年龄图片。
+    url = "https://danbooru.donmai.us/posts.json?tags=hinata_shouyou+pixiv+rating:general&limit=20"
     
-    print(f"正在请求图库: {url}")
+    print(f"正在请求 Danbooru 图库: {url}")
     try:
-        # 加上 headers=HEADERS 伪装成浏览器
         response = requests.get(url, headers=HEADERS, timeout=10)
         
-        print(f"图库响应状态码: {response.status_code}")
+        print(f"Danbooru 图库响应状态码: {response.status_code}")
         
         if response.status_code == 200:
             posts = response.json()
@@ -42,13 +43,13 @@ def get_hinata_image():
                 print(f"成功获取图片链接: {img_url}")
                 return img_url
             else:
-                print("错误：搜索结果为空 (可能标签太严格或图库暂时没数据)")
+                print("错误：Danbooru 搜索结果为空 (可能标签太严格或图库暂时没数据)")
         else:
-            print(f"错误：图库拒绝访问 (Status {response.status_code})")
+            print(f"错误：Danbooru 拒绝访问 (Status {response.status_code})")
             print(f"响应内容: {response.text[:100]}") # 打印前100个字符看看
             
     except Exception as e:
-        print(f"请求异常: {e}")
+        print(f"请求 Danbooru 异常: {e}")
     return None
 
 def send_telegram(img_url):
