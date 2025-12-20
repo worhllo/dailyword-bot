@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 语录 | 图片 |
 | :--- | :--- | :--- |
 <!-- HISTORY_START -->
+| 2025-12-20 | “我愿意呀，五十年前就愿意了。”<br>——《狐妖小红娘》 | <img src='https://w.wallhaven.cc/full/od/wallhaven-od2vy5.jpg' width='200'> |
+
 | 2025-12-20 | “不得了不得了”<br>——《小林家的龙女仆》 | <img src='https://w.wallhaven.cc/full/vg/wallhaven-vge7r8.jpg' width='200'> |
 
 <!-- HISTORY_END -->
