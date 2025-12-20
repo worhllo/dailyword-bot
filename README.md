@@ -71,3 +71,22 @@ on:
   schedule:
     # 每天 UTC 时间 0:00 (北京时间 8:00)
     - cron: '0 0 * * *'
+如果你想改成北京时间早上 9 点，将第一个 0 改为 1 即可。
+```
+### 修改图片搜索关键词
+打开 `main.py` 文件，找到 `url` 变量：
+```# q=haikyuu 表示搜索排球少年，你可以改成 q=hinata shoyo (只看日向翔阳)
+url = "https://wallhaven.cc/api/v1/search?q=haikyuu&categories=010&purity=100&sorting=random"
+```
+## 🛠️ 技术栈
+Python 3
+GitHub Actions (CI/CD)
+Requests (HTTP Library)
+Telegram Bot API
+Wallhaven API (Image Source)
+Hitokoto API (Quote Source)
+## 🤝 致谢
+Wallhaven（https://wallhaven.cc/） - 最好的二次元壁纸站
+Hitokoto 一言 - 感动人心的文字
+## 📄 License
+本项目采用 MIT License 开源协议。
