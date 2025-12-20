@@ -26,7 +26,7 @@
 
 <!-- 建议把你刚才那张成功的手机截图放在这里，非常直观 -->
 <div align="center">
-  ![Screenshot_2025-12-21-00-21-50-77_948cd9899890cbd5c2798760b2b95377](https://github.com/user-attachments/assets/fd6d5c5b-035d-4dbe-be8c-213b4125c2b0)
+  (https://github.com/user-attachments/assets/fd6d5c5b-035d-4dbe-be8c-213b4125c2b0)
 
 </div>
 
