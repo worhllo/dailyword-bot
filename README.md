@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-01-05 | “美好的人眼里映出的世界也是美好的。”<br>——《ARIA》 | <img src='https://w.wallhaven.cc/full/m3/wallhaven-m3evd1.jpg' height='150'> |
+
 | 2026-01-04 | “就算风吹散了冰雪，想念也会留存下来。”<br>——《滑头鬼之孙》 | <img src='https://w.wallhaven.cc/full/m3/wallhaven-m3vd3k.jpg' height='150'> |
 
 | 2026-01-03 | “任尘世繁华，唯有守护你的一切，才是我此生唯一的使命。”<br>——《次元战争·红龙》 | <img src='https://w.wallhaven.cc/full/md/wallhaven-mdmrok.png' height='150'> |
