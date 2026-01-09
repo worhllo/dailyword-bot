@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-01-09 | “最短的捷径就是绕远路。”<br>——《STEEL BALL RUN》 | <img src='https://w.wallhaven.cc/full/1k/wallhaven-1klx23.png' height='150'> |
+
 | 2026-01-08 | “爱,其实很简单，困难的是去接受它。”<br>——《通灵王》 | <img src='https://w.wallhaven.cc/full/j5/wallhaven-j5jppq.png' height='150'> |
 
 | 2026-01-07 | “风吹柳叶遮黄雀，薄翅不觉已落蝉。”<br>——《我为苍生》 | <img src='https://w.wallhaven.cc/full/x1/wallhaven-x1273z.png' height='150'> |
