@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-01-12 | “苹果是给那些为了爱选择死亡的人的奖励”<br>——《回转企鹅罐》 | <img src='https://w.wallhaven.cc/full/od/wallhaven-od2vy5.jpg' height='150'> |
+
 | 2026-01-11 | “别忘了，我们是羊村守护者！”<br>——《羊村守护者》 | <img src='https://w.wallhaven.cc/full/3k/wallhaven-3klly6.jpg' height='150'> |
 
 | 2026-01-10 | “跌跌撞撞的成长，又美又疼才是本质。”<br>——《哥斯拉不说话》 | <img src='https://w.wallhaven.cc/full/yj/wallhaven-yjrgqg.png' height='150'> |
