@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-01-13 | “如果你都不知道自己想去哪里，那去哪里都是一样的。”<br>——《柴郡猫》 | <img src='https://w.wallhaven.cc/full/yj/wallhaven-yjxx3k.jpg' height='150'> |
+
 | 2026-01-12 | “苹果是给那些为了爱选择死亡的人的奖励”<br>——《回转企鹅罐》 | <img src='https://w.wallhaven.cc/full/od/wallhaven-od2vy5.jpg' height='150'> |
 
 | 2026-01-11 | “别忘了，我们是羊村守护者！”<br>——《羊村守护者》 | <img src='https://w.wallhaven.cc/full/3k/wallhaven-3klly6.jpg' height='150'> |
