@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-01-16 | “不幸的是我们等了那么多年，幸运的我们那么多年过去还一直在一起”<br>——《薄荷之夏》 | <img src='https://w.wallhaven.cc/full/j3/wallhaven-j35qvp.jpg' height='150'> |
+
 | 2026-01-15 | “哲学的基本问题是思维和存在的关系问题。”<br>——《哲学的基本问题》 | <img src='https://w.wallhaven.cc/full/k9/wallhaven-k961vd.png' height='150'> |
 
 | 2026-01-14 | “巧合是上帝默默操控世界的方式。”<br>——《佚名》 | <img src='https://w.wallhaven.cc/full/eo/wallhaven-eo19p8.jpg' height='150'> |
