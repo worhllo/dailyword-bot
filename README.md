@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-01-18 | “前天是兔子，昨天是小鹿，今天是你”<br>——《Clannad》 | <img src='https://w.wallhaven.cc/full/r7/wallhaven-r7zoq7.jpg' height='150'> |
+
 | 2026-01-17 | “曾经发生过的事情不可能忘记，只不过是想不起而已。”<br>——《千与千寻》 | <img src='https://w.wallhaven.cc/full/5d/wallhaven-5d8ky5.jpg' height='150'> |
 
 | 2026-01-16 | “不幸的是我们等了那么多年，幸运的我们那么多年过去还一直在一起”<br>——《薄荷之夏》 | <img src='https://w.wallhaven.cc/full/j3/wallhaven-j35qvp.jpg' height='150'> |
