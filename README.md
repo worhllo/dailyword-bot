@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-01-19 | “信心这个东西，什么时候都像个高楼大厦，但是里面会长白蚁。”<br>——《沉默的大多数》 | <img src='https://w.wallhaven.cc/full/3k/wallhaven-3kewyv.png' height='150'> |
+
 | 2026-01-18 | “前天是兔子，昨天是小鹿，今天是你”<br>——《Clannad》 | <img src='https://w.wallhaven.cc/full/r7/wallhaven-r7zoq7.jpg' height='150'> |
 
 | 2026-01-17 | “曾经发生过的事情不可能忘记，只不过是想不起而已。”<br>——《千与千寻》 | <img src='https://w.wallhaven.cc/full/5d/wallhaven-5d8ky5.jpg' height='150'> |
