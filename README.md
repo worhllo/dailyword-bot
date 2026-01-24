@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-01-24 | “孤独的人不会伤害别人，只会不断地伤害自己罢了。”<br>——《我的青春恋爱物语果然有问题》 | <img src='https://w.wallhaven.cc/full/zx/wallhaven-zxroyw.jpg' height='150'> |
+
 | 2026-01-23 | “人，百年一世；龙，百年一岁。君生吾已老，君未变，而吾已老。”<br>——《妖怪名单》 | <img src='https://w.wallhaven.cc/full/l8/wallhaven-l8v2dr.jpg' height='150'> |
 
 | 2026-01-22 | “假如我们相遇，肯定一眼就能认出彼此”<br>——《你的名字》 | <img src='https://w.wallhaven.cc/full/d5/wallhaven-d5qe8g.jpg' height='150'> |
