@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-01-28 | “错的不是我，而是这个世界！”<br>——《东京喰种》 | <img src='https://w.wallhaven.cc/full/r2/wallhaven-r26vz1.jpg' height='150'> |
+
 | 2026-01-28 | “最折磨人的或许不是一场惨烈战争，而是烦琐的日常生活。”<br>——《亦舒》 | <img src='https://w.wallhaven.cc/full/6q/wallhaven-6qddg6.jpg' height='150'> |
 
 | 2026-01-27 | “身为冒险者，如果安静的老死在床上，那简直就是耻辱！”<br>——《恶魔法则》 | <img src='https://w.wallhaven.cc/full/wy/wallhaven-wy33zx.jpg' height='150'> |
