@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-01-30 | “我是一个经常笑的人，可我不是经常开心的人。”<br>——《未闻花名》 | <img src='https://w.wallhaven.cc/full/6q/wallhaven-6qjovx.png' height='150'> |
+
 | 2026-01-29 | “奇迹不是免费的，如果你祈求了希望，也会散播出同等的绝望。”<br>——《魔法少女小圆》 | <img src='https://w.wallhaven.cc/full/yx/wallhaven-yx3v9k.jpg' height='150'> |
 
 | 2026-01-28 | “错的不是我，而是这个世界！”<br>——《东京喰种》 | <img src='https://w.wallhaven.cc/full/r2/wallhaven-r26vz1.jpg' height='150'> |
