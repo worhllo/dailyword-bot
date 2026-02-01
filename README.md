@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-02-01 | “真正重要的东西，总是没有的人比拥有的人清楚。”<br>——《银魂》 | <img src='https://w.wallhaven.cc/full/96/wallhaven-96kkq8.jpg' height='150'> |
+
 | 2026-01-31 | “如果你能在浪费时间中获得乐趣，就不算浪费时间。”<br>——《罗素》 | <img src='https://w.wallhaven.cc/full/6o/wallhaven-6ojjy7.jpg' height='150'> |
 
 | 2026-01-30 | “我是一个经常笑的人，可我不是经常开心的人。”<br>——《未闻花名》 | <img src='https://w.wallhaven.cc/full/6q/wallhaven-6qjovx.png' height='150'> |
