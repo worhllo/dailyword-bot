@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-02-05 | “赢得了时间就是赢得了一切。”<br>——《弗拉基米尔·伊里奇·列宁》 | <img src='https://w.wallhaven.cc/full/r7/wallhaven-r7zy5w.jpg' height='150'> |
+
 | 2026-02-04 | “你的心可以属于耶稣，但你的屁股永远属于陆战队！”<br>——《魔法少女陆战队》 | <img src='https://w.wallhaven.cc/full/wy/wallhaven-wyxpr7.jpg' height='150'> |
 
 | 2026-02-03 | “我本来不想使出这一招的”<br>——《少年JUMP》 | <img src='https://w.wallhaven.cc/full/1j/wallhaven-1jmxp9.jpg' height='150'> |
