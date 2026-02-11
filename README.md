@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-02-11 | “虽然人生在世有种种不如意，但你仍可以在幸福与不幸中做选择。”<br>——《写给新的一年》 | <img src='https://w.wallhaven.cc/full/od/wallhaven-od2vy5.jpg' height='150'> |
+
 | 2026-02-10 | “一定没有问题的！”<br>——《魔卡少女樱》 | <img src='https://w.wallhaven.cc/full/ox/wallhaven-oxkdrm.png' height='150'> |
 
 | 2026-02-09 | “信心这个东西，什么时候都像个高楼大厦，但是里面会长白蚁。”<br>——《沉默的大多数》 | <img src='https://w.wallhaven.cc/full/x1/wallhaven-x1663v.jpg' height='150'> |
