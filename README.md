@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-02-12 | “风吹柳叶遮黄雀，薄翅不觉已落蝉。”<br>——《我为苍生》 | <img src='https://w.wallhaven.cc/full/r2/wallhaven-r2eemj.png' height='150'> |
+
 | 2026-02-11 | “虽然人生在世有种种不如意，但你仍可以在幸福与不幸中做选择。”<br>——《写给新的一年》 | <img src='https://w.wallhaven.cc/full/od/wallhaven-od2vy5.jpg' height='150'> |
 
 | 2026-02-10 | “一定没有问题的！”<br>——《魔卡少女樱》 | <img src='https://w.wallhaven.cc/full/ox/wallhaven-oxkdrm.png' height='150'> |
