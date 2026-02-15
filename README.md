@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-02-15 | “生命如同寓言，其价值不在于长短，而在于内容。”<br>——《塞涅卡》 | <img src='https://w.wallhaven.cc/full/gj/wallhaven-gj2x57.jpg' height='150'> |
+
 | 2026-02-14 | “我的一生，无怨无悔！”<br>——《北斗神拳》 | <img src='https://w.wallhaven.cc/full/72/wallhaven-723o1y.jpg' height='150'> |
 
 | 2026-02-13 | “あなたは敵だけど悪くない。”<br>——《火影忍者》 | <img src='https://w.wallhaven.cc/full/l8/wallhaven-l8v2dr.jpg' height='150'> |
