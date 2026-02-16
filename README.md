@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-02-16 | “内心湛然，则无往而不乐。”<br>——《人生不过如此》 | <img src='https://w.wallhaven.cc/full/3k/wallhaven-3kewyv.png' height='150'> |
+
 | 2026-02-15 | “生命如同寓言，其价值不在于长短，而在于内容。”<br>——《塞涅卡》 | <img src='https://w.wallhaven.cc/full/gj/wallhaven-gj2x57.jpg' height='150'> |
 
 | 2026-02-14 | “我的一生，无怨无悔！”<br>——《北斗神拳》 | <img src='https://w.wallhaven.cc/full/72/wallhaven-723o1y.jpg' height='150'> |
