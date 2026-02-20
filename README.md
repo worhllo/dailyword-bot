@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-02-20 | “两个人从监狱的窗户往外看，一个看见了土地，一个看见了星星。”<br>——《jojo的奇妙冒险》 | <img src='https://w.wallhaven.cc/full/p8/wallhaven-p8grxj.jpg' height='150'> |
+
 | 2026-02-19 | “憧憬，是距离了解最遥远的一种感情。”<br>——《BLEACH》 | <img src='https://w.wallhaven.cc/full/wy/wallhaven-wy33zx.jpg' height='150'> |
 
 | 2026-02-18 | “人，百年一世；龙，百年一岁。君生吾已老，君未变，而吾已老。”<br>——《妖怪名单》 | <img src='https://w.wallhaven.cc/full/k9/wallhaven-k9xx67.png' height='150'> |
