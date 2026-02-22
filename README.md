@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-02-22 | “人找不到某种东西沉迷就活不下来。人都是某种东西的奴隶。”<br>——《进击的巨人》 | <img src='https://w.wallhaven.cc/full/e7/wallhaven-e76mlr.jpg' height='150'> |
+
 | 2026-02-21 | “为什么要担心？如果努力了，担心不会让结果变得更好。”<br>——《迪士尼》 | <img src='https://w.wallhaven.cc/full/vm/wallhaven-vmrovl.png' height='150'> |
 
 | 2026-02-20 | “两个人从监狱的窗户往外看，一个看见了土地，一个看见了星星。”<br>——《jojo的奇妙冒险》 | <img src='https://w.wallhaven.cc/full/p8/wallhaven-p8grxj.jpg' height='150'> |
